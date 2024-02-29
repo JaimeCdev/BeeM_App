@@ -1,4 +1,4 @@
-package com.farasi.beemore;
+package gt.asms.beemoree;
 
 import com.getcapacitor.BridgeActivity;
 
